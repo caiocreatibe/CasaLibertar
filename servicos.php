@@ -60,7 +60,7 @@
 
 	<div id="footer">
 		<footer>
-			<nav id="contatoFooter">Entre em contato. <a href="#contato">CLIQUE AQUI!</a> <div class="dobras"></div> </nav>
+			<nav id="contatoFooter">Entre em contato Agora mesmo!. <a href="#contato">CLIQUE AQUI!</a> <div class="dobras"></div> </nav>
 			<aside id="msg"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
