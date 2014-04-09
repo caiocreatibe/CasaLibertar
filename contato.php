@@ -96,7 +96,7 @@
 			</aside>
 		</footer>
 	<div id="sign">
-		<div class="endereco">Nosso Endereço, 33, Duartina/SP</div>
+		<div class="endereco">Nosso Endereço, 33, Duartina/SP - São Paulo</div>
 		<div class="creatibe">
 			<div id="copyrigth">&copy;&nbsp;<span id="year"></span> - Libertar | Casa de Recuperação</div>
 			<div id="developed"><a href="http://www.agenciacreatibe.com.br" target="_blank">Desenvolvido por Agência Creatibe&nbsp;&nbsp;&nbsp;<img src="upload/images/creatibe.jpg" alt="Agência Creatibe" title="Agência Creatibe Desenvolvimento de Sites Profissinais"></a></div>
